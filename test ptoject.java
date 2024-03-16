@@ -1,7 +1,3 @@
-public class test project{
-}
-
-
 public String Programmer(Engineer e) {
 e.setName("Eng. Ghada") ;
 KSU("SWE", e) ;
